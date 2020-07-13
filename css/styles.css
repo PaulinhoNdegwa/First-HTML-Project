@@ -1,0 +1,29 @@
+.gadget {
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.live-image {
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+h4 {
+    color: blue;
+}
+
+.my-bio {
+    color: red;
+    font-size: 8px;
+}
+
+.bio {
+    color: green;
+    font-size: 20px;
+}
+
+#interests {
+    color: red;
+}
